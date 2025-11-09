@@ -1,4 +1,4 @@
-#CIT300 Practical Assignment 2  
+##CIT300 Practical Assignment 2  
 ## Sorting Algorithm Comparison Tool  
 
 This project is a **console-based Java application** developed to compare the performance of three sorting algorithms — **Bubble Sort**, **Merge Sort**, and **Quick Sort** — based on **execution time** and **step count**.  
