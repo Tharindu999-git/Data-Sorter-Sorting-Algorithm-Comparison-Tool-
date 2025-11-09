@@ -1,1 +1,1 @@
-# Data-Sorter-Sorting-Algorithm-Comparison-Tool-
+# DataSorter-SortingAlgorithmComparisonTool
